@@ -16,8 +16,8 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system tailor
 | 🔗 LangChain          | Orchestrates document loading and LLM pipelines   |
 | 🔍 FAISS              | Vector similarity search for fast retrieval       |
 | 🧬 SentenceTransformers | Converts documents into dense embeddings       |
-## 📁 Project Structure
-```
+
+
 
 
 ## 🔧 Running the App
