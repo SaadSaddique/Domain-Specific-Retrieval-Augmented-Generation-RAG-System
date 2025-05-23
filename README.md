@@ -18,19 +18,7 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system tailor
 | 🧬 SentenceTransformers | Converts documents into dense embeddings       |
 ## 📁 Project Structure
 ```
-rag_pipeline/
-├── data/                      # Your custom documents
-├── embeddings/                # FAISS index and vector store
-├── models/                    # LLaMA 2 weights (optional download path)
-├── pipeline/
-│   ├── loader.py              # Loads and preprocesses documents
-│   ├── embedder.py            # Embeds using SentenceTransformers
-│   ├── retriever.py           # FAISS-based retrieval logic
-│   └── generator.py           # Generates final answers using LLaMA
-├── app.py                     # Main application entry
-├── requirements.txt
-└── README.md
-```
+
 
 ## 🔧 Running the App
 ```bash
